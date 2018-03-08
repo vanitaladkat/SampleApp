@@ -14,9 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        //Changes in files
-        
-        //Brach1 changes
+        //changes made on branch 2
     }
 
     override func didReceiveMemoryWarning() {
