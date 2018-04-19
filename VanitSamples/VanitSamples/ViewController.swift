@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
         
         //changes made on branch 2
+        let myVar = 1
+        print(myVar)
     }
 
     override func didReceiveMemoryWarning() {
